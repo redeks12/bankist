@@ -22,7 +22,7 @@ To get started with Bankist on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bankist.git
+   git clone https://github.com/redeks12/bankist.git
    ```
 
    ```
